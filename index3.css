@@ -1,0 +1,7 @@
+body > div {
+    height: 600px;
+    width: 600px;
+    background-color: gold;
+    background-image: url("locket-1.jpg");
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,43 @@
+header {
+    background: red;
+    color: white;
+    height: 50px;
+    float: none;
+    clear: none;
+    margin: 0;
+}
+nav {
+    background: black;
+    color: white;
+    height: 50px;
+    float: none;
+    clear: none;
+    margin: 0;
+}
+section {
+    background: grey;
+    color: white;
+    height: 500px;
+    float: left;
+    width: 80%;
+    clear: left;
+    margin: 0;
+}
+aside {
+    background: yellowgreen;
+    color: white;
+    height: 500px;
+    width: 20%;
+    margin: 0;
+    float: right;
+    clear: right;
+}
+footer {
+    background: blue;
+    color: white;
+    height: 40px;
+    float: none;
+    clear: both;
+    margin: 0;
+
+}
